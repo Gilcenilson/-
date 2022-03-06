@@ -75,6 +75,8 @@ nav {
     position: block;
     max-width: 100%;
     background-color: white;
+    background-image: url('../images/fundosi.png');
+    background-repeat: no-repeat;
     color: green;
     padding-left: 10px;
 }
@@ -100,6 +102,7 @@ nav {
     padding-bottom: 10px;
     font-size: 12pt;
     text-shadow: 2px 2px 9px #ccc;
+    font-weight: bold;
 }
 
 
