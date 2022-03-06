@@ -1,3 +1,20 @@
+@media (max-width: 550px) {
+
+    nav{
+        font-size: 10pt
+    }
+    
+    #content-background{
+        background-color: white;
+        min-width: 420px;
+        max-width: 1000px;
+        height: 1000px;
+        margin: auto;
+        box-sizing: border-box;
+        background-repeat: no-repeat;
+}
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
 * {
     font-family: Arial, Helvetica, sans-serif;

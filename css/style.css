@@ -3,6 +3,13 @@
     nav{
         font-size: 10pt
     }
+    #welcome {
+        position: absolute;
+        left: -5%;
+        top: 14%;
+        transition: (-50%,-50%);
+    
+    }
     .container-discription {
         background-color: white;
         width: 380px;
@@ -14,7 +21,7 @@
         box-sizing: border-box;
         border-radius: 20%;
         text-align: center;
-        position: absolute;
+        top: 18%;
     }
 }
 
