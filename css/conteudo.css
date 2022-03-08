@@ -107,11 +107,11 @@ nav {
 }
 
 
-/* RESPONSIVE FOR 320*/
+/*  RESPONSIVE FOR 425*/
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
     *{
-        max-width: 320px;
+        max-width: 425px;
     }
 
     /* HEADER */
@@ -121,7 +121,7 @@ nav {
         height: 100px;
         background-color: green;
         position: relative;
-        background-image: url('../images/cab-fund2.png');
+        background-image: url('../images/cab-fundo4.png');
     }
 
     /* NAVEGATION */
@@ -226,11 +226,13 @@ nav {
     
 }
 
-/*  RESPONSIVE FOR 425*/
 
-@media (max-width: 425px) {
+
+/* RESPONSIVE FOR 320*/
+
+@media (max-width: 320px) {
     *{
-        max-width: 425px;
+        max-width: 320px;
     }
 
     /* HEADER */
@@ -240,7 +242,7 @@ nav {
         height: 100px;
         background-color: green;
         position: relative;
-        background-image: url('../images/cab-fundo4.png');
+        background-image: url('../images/cab-fund2.png');
     }
 
     /* NAVEGATION */
@@ -284,3 +286,4 @@ nav {
     /* GENERAL CONTAINER*/
     
 }
+
