@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+#icon {
+    width: 50px;
+}
+
 /*  CORPO  */
 div#corpo{
     min-width: 320px;
