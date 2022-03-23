@@ -20,7 +20,7 @@ div#corpo{
     background-repeat: no-repeat;
 }
 body{
-    background-color: gray;
+    background-color: white
 }
 
 /*  HEADER AND NAVEGATION  */
@@ -78,7 +78,7 @@ h3{
     background-color: rgb(0,0,0,0.5);
     color: white;
     max-width: 400px;
-    height: 455px;
+    height: 500px;
     overflow: hidden;
     padding: 10px;
     box-sizing: border-box;
