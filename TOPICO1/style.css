@@ -77,12 +77,10 @@ nav {
     margin-right: 30px;
     font-size: 11pt;
 }
-.format-p-s{
-    text-align: center;  
+.format-p-a{
     font-weight: bold;
-    padding-top: 20px;
-    margin-right: 35px;
-    font-size: 9pt;
+    font-size: 12pt;
+    display: block;
 }
 #tittle1{
     padding-left: 20px;

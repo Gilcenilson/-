@@ -12,6 +12,12 @@ iframe{
 body{
     background-color: gray;
 }
+.negrito{
+    font-weight: bold;
+}
+.direita{
+    padding-left: 20px;
+}
 header {
     width: 100%;
     height: 100px;
