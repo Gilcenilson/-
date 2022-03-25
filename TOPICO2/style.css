@@ -18,6 +18,13 @@ body{
 .direita{
     padding-left: 20px;
 }
+.format-t{
+    display: flex;
+    justify-content: center;
+}
+.tamanho{
+    max-width: 600px;
+}
 header {
     width: 100%;
     height: 100px;
